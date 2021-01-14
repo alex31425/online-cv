@@ -32,16 +32,23 @@ sidebar:
       - idiom: English
         level: Professional
 
+    skills:
+    title: Skills &amp; Proficiency
 
+    toolset:
+      - name: Python 
+        level: 90%
+        
+        
     # interests:
-      - item: # Climbing
-        link:
+      # - item: # Climbing
+      #  link:
 
-      - item: # Snowboarding
-        link:
+      # - item: # Snowboarding
+      #  link:
 
-      - item: # Cooking
-        link:
+      # - item: # Cooking
+      #  link:
 
 career-profile:
     title: Career Profile
