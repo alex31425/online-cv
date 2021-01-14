@@ -185,19 +185,25 @@ skills:
       - name: Python 
         level: 90%
 
-      - name: Javascript & jQuery
+      - name: R
         level: 98%
 
-      - name: Angular
+      - name: MySQL
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: SAS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Tableau
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: MongoDB
+        level: 60%
+        
+      - name: Database management
+        level: 60%  
+        
+      - name: Power BI
         level: 60%
 
 footer: >
