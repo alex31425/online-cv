@@ -31,13 +31,15 @@ sidebar:
 
       - idiom: English
         level: Professional
-
-    skills:
-    title: Skills &amp; Proficiency
-
+        
     toolset:
       - name: Python 
         level: 90%
+        
+    skills:
+    title: Skills &amp; Proficiency
+
+
         
         
     # interests:
