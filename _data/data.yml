@@ -92,39 +92,32 @@ experiences:
       details: |
           - Query and update database
           - Routinely communicate progress and escalate issues to management
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Budget and Admin Analyst
+      time: 10/2014 - Present
+      company: SDSU Research Foundation – Chinese Cultural Center, San Diego, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Prepare department budgets and expenses; responsible for budget proposal projects and SDSURF paperwork; in charge of office finance
+          - Manage the monthly and quarterly budget review process to provide timely and informative financial analysis and updates
+          - Analyze and prepares monthly department budgeting reports to maintain expenditure controls
+          - Review operating budgets to analyze trends affecting budget needs
+          - Create and revise systems and procedures by analyzing operating practices, recordkeeping systems, forms control, office layout, and budgetary and personnel requirements; implementing changes; maintaining office files and databases
+          - Resolve administrative problems by coordinating preparation of reports, analyzing data, and identifying solutions
+          - Uses of various software, such as Excel VBA macros databases, spreadsheets and word-processing, used in an integrated computer environment. Proven ability using spreadsheet and database software for financial analysis, fiscal management, and financial reports. Must be able to use Lookup functions to merge data from multiple large reports
+    - role: ata & Research Analyst (intern)
+      time: 02/2014 - 05/2014
+      company: San Diego Social Venture Partners, Inc., San Diego, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Analyzed historical membership and survey data to determine segmentation, trends, and the effects of engagement on retention
+          - Synthesized organizational information to conduct a SWOT analysis
+          - Mapped strategies according to organizational strengths and non-profit community needs
+          - Evaluated the operational viability of proposed strategies
+    - role: Transaction Settlement Specialist (Department of Investment)
+      time: 10/2009 - 07/2012
+      company: Nan Shan Life Insurance Company, Taipei, Taiwan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Researched new financial instruments such as CMO/CCS by using Bloomberg , tested all system conditions (Portia), collaborated with IT colleagues to troubleshoot problems in Portia and testing simulations
+          - Reformed internal controls design to match current operations in order to comply with internal audit team to implement monitor procedures, reducing expected work time by 40% per manpower
+          - Responsible for all settlement operations, communication with all inner/outer accounting departments and counterparties to ensure deals settled on time; no trades were delayed or defaulted since assuming the position
           
 projects:
     title: Projects
@@ -153,27 +146,23 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#publications:
+    #title: Publications
+    #intro: |
+     # You can list your publications in this section. Lorem ipsum dolor sit
+     # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+     # bibendum fringilla a eu lectus.
+    #papers:
+     # - title: The Art of Computer Programming
+      #  link: "#"
+       # authors: Donald E. Knuth
+        #conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      #  link: "#"
+      #  authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      #  conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
