@@ -89,7 +89,7 @@ experiences:
     - role: Data Analysis intern
       time: 09/2010 - Present
       company: SDSU Climate Informatics Laboratory, San Diego, CA
-      details:
+      details: |
           - Query and update database
           - Routinely communicate progress and escalate issues to management
     - role: UI Developer
