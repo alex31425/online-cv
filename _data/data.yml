@@ -51,6 +51,12 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+      As part of my current role as a Budget Analyst at the SDSU Chinese Cultural Center, 
+      I formulate, analyze, and manage budget revenue and expenditure with over 30 programs annually. 
+      I gather and interpret data from a variety of sources to help the organization improve budget management efficiently. 
+      I would love to automate internal and external reports, creating executive-level dashboards, and presenting information to help executives and others understand the operational impact of the budget. 
+      With proven success managing department funds and resources as well as mentoring and supervising interns, my additional strengths in general administration position enable me to thrive in this challenging position. 
+      In addition, as a data analysis intern at SDSU Climate Informatic Laboratory, I query and update database and routinely communicate progress and escalate issues to management, and assist in reviewing and writing Python code for the book entitled Climate Mathematics: Theory and Applications. 
 education:
     - degree: MSc in Big Data Analystics
       university: San Diego State University San Diego CA
@@ -172,25 +178,25 @@ skills:
         level: 90%
 
       - name: R
-        level: 98%
+        level: 70%
 
       - name: MySQL
-        level: 98%
+        level: 80%
 
       - name: SAS
-        level: 95%
+        level: 50%
 
       - name: Tableau
         level: 85%
 
       - name: MongoDB
-        level: 60%
+        level: 50%
         
       - name: Database management
-        level: 60%  
+        level: 80%  
         
       - name: Power BI
-        level: 60%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
