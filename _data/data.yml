@@ -86,37 +86,6 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Data intern
-      time: 09/2020 - Present
-      company: SDSU Climate Informatics Laboratory, San Diego, CA
-      # details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Query and update database
-          - Routinely communicate progress and escalate issues to management.
-    - role: Budget and Admin Analyst
-      time: 10/2014 - Present
-      company: SDSU Research Foundation – Chinese Cultural Center, San Diego, CA
-      # details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Prepare department budgets and expenses; responsible for budget proposal projects and SDSURF paperwork; in charge of office finance.
-          - Manage the monthly and quarterly budget review process to provide timely and informative financial analysis and updates.
-          - Analyze and prepares monthly department budgeting reports to maintain expenditure controls.
-          - Review operating budgets to analyze trends affecting budget needs.
-          - Create and revise systems and procedures by analyzing operating practices, recordkeeping systems, forms control, office layout, and budgetary and personnel requirements; implementing changes; maintaining office files and databases.
-          - Resolve administrative problems by coordinating preparation of reports, analyzing data, and identifying solutions.
-          - Uses of various software, such as Excel VBA macros databases, spreadsheets and word-processing, used in an integrated computer environment. Proven ability using spreadsheet and database software for financial analysis, fiscal management, and financial reports. Must be able to use Lookup functions to merge data from multiple large reports.
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
