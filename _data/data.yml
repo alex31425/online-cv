@@ -86,7 +86,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Data Analysis intern 
+    - role: Data Analysis intern
       time: 09/2020 - Present
       company: SDSU Climate Informatics Laboratory, San Diego, CA
       # details: |
@@ -101,7 +101,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Query and update database
           - Routinely communicate progress and escalate issues to management.
-    - role: Budget and Admin Analyst 
+    - role: Budget and Admin Analyst
       time: 10/2014 - Present
       company: SDSU Research Foundation – Chinese Cultural Center, San Diego, CA
       # details: |
