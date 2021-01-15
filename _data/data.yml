@@ -86,17 +86,12 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - role: Data Analysis intern
+      time: 09/2010 - Present
+      company: SDSU Climate Informatics Laboratory, San Diego, CA
+      details:
+          - Query and update database
+          - Routinely communicate progress and escalate issues to management
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
