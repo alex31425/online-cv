@@ -183,6 +183,6 @@ skills:
         level: 70%
 
 footer: >
-    <i class="fas fa-download"></i><a href="/online-cv/assets/pdf/Mu_Ting_Huang_Resume_202101.pdf" target="_blank">DOWNLOAD MY RESUME/CV</a><i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i><span class="sr-only">Loading...</span>
+    <i class="fas fa-download" style="font-size:24px"></i><a href="/online-cv/assets/pdf/Mu_Ting_Huang_Resume_202101.pdf" target="_blank">DOWNLOAD MY RESUME/CV</a><i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i><span class="sr-only">Loading...</span>
     
     
