@@ -52,6 +52,7 @@ career-profile:
       With proven success managing department funds and resources as well as mentoring and supervising interns, my additional strengths in general administration position enable me to thrive in this challenging position. 
       In addition, as a data analysis intern at [SDSU Climate Informatic Laboratory](https://shen.sdsu.edu/research_group.html), I query and update database and routinely communicate progress and escalate issues to management, and assist in reviewing and writing Python code for the book entitled [Climate Mathematics: Theory and Applications](https://climatemathematics.sdsu.edu/main/PythonCodes.html).
       <br>
+      <br>
       You can <a href="/online-cv/assets/resume/Mu_Ting_Huang_Resume_202101.docx" target="_blank">DOWNLOAD MY RESUME/CV</a> or <a href="/online-cv/assets/resume/Mu_Ting_Huang_Resume_202101.pdf" target="_blank">VIEW ONLINE PDF/CV</a>
 education:
     - degree: MSc in Big Data Analystics
@@ -99,13 +100,11 @@ experiences:
       time: 10/2014 - Present
       company: SDSU Research Foundation – Chinese Cultural Center, San Diego, CA
       details: |
-          - Prepare department budgets and expenses; responsible for budget proposal projects and SDSURF paperwork; in charge of office finance
-          - Manage the monthly and quarterly budget review process to provide timely and informative financial analysis and updates
-          - Analyze and prepares monthly department budgeting reports to maintain expenditure controls
-          - Review operating budgets to analyze trends affecting budget needs
-          - Create and revise systems and procedures by analyzing operating practices, recordkeeping systems, forms control, office layout, and budgetary and personnel requirements; implementing changes; maintaining office files and databases
-          - Resolve administrative problems by coordinating preparation of reports, analyzing data, and identifying solutions
-          - Uses of various software, such as Excel VBA macros databases, spreadsheets and word-processing, used in an integrated computer environment. Proven ability using spreadsheet and database software for financial analysis, fiscal management, and financial reports. Must be able to use Lookup functions to merge data from multiple large reports
+          - Reduced 75% of time for preparing annual budget by using Excel VBA and spreadsheets.
+          - Develop and manage annual budget review process to provide timely and informative financial analysis and updates.
+          - Slashed 10% of expenses by analyzing and preparing monthly department budgeting reports to maintain expenditure controls.
+          - Create and revise systems and procedures by reviewing operating practices, recordkeeping systems, forms control, and budgetary and personnel requirements.
+          - Develop, implement, and advise staff on internal administrative policies and procedures.
     - role: Data & Research Analyst (intern)
       time: 02/2014 - 05/2014
       company: San Diego Social Venture Partners, Inc., San Diego, CA
@@ -120,7 +119,7 @@ experiences:
       details: |
           - Researched new financial instruments such as CMO/CCS by using Bloomberg , tested all system conditions (Portia), collaborated with IT colleagues to troubleshoot problems in Portia and testing simulations
           - Reformed internal controls design to match current operations in order to comply with internal audit team to implement monitor procedures, reducing expected work time by 40% per manpower
-          - Responsible for all settlement operations, communication with all inner/outer accounting departments and counterparties to ensure deals settled on time; no trades were delayed or defaulted since assuming the position
+          - Performed all settlement operations and communicate with all inner/outer accounting departments and counterparties to ensure deals settled on time; 0 trades were delayed or defaulted since assuming the position.
           
 projects:
     title: Projects
@@ -183,6 +182,6 @@ skills:
         level: 70%
 
 footer: >
-    <i class="fas fa-download" style="font-size:36px"></i><a href="/online-cv/assets/pdf/Mu_Ting_Huang_Resume_202101.pdf" target="_blank"> DOWNLOAD MY RESUME/CV </a><i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i><span class="sr-only">Loading...</span>
+    <i class="fas fa-download" style="font-size:36px"></i><a href="/online-cv/assets/resume/Mu_Ting_Huang_Resume_202101.docx" target="_blank"> DOWNLOAD MY RESUME/CV </a><i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i><span class="sr-only">Loading...</span>
     
     
