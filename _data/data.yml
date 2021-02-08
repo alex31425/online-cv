@@ -55,7 +55,7 @@ career-profile:
       <br>
       You can <a href="/online-cv/assets/resume/Mu_Ting_Huang_Resume_202102.docx" target="_blank">DOWNLOAD MY RESUME/CV</a> or <a href="/online-cv/assets/resume/Mu_Ting_Huang_Resume_202102.pdf" target="_blank">VIEW ONLINE PDF/CV</a>
 education:
-    - degree: MSc in Big Data Analystics
+    - degree: MSc in Big Data Analytics
       university: San Diego State University San Diego CA
       time: 2010 - 2022
       details: |
@@ -160,26 +160,23 @@ skills:
       - name: Python 
         level: 90%
 
-      - name: R
-        level: 70%
-
-      - name: MySQL
-        level: 80%
-
-      - name: SAS
-        level: 50%
-
       - name: Tableau
         level: 85%
 
-      - name: MongoDB
+      - name: Power BI
+        level: 85%
+
+      - name: SQL
+        level: 80%
+
+      - name: R
+        level: 80%
+
+      - name: Database management
         level: 50%
         
-      - name: Database management
-        level: 80%  
-        
-      - name: Power BI
-        level: 70%
+      - name: MongoDB
+        level: 50%
 
 footer: >
     <i class="fas fa-download" style="font-size:36px"></i><a href="/online-cv/assets/resume/Mu_Ting_Huang_Resume_202102.docx" target="_blank"> DOWNLOAD MY RESUME/CV </a><i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i><span class="sr-only">Loading...</span>
