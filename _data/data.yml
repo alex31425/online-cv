@@ -128,11 +128,11 @@ projects:
       
     assignments:
       - title: Baseball
-        link: "https://github.com/alex31425/MTHuang/blob/master/index.md#machine-learning-engineering-for-predicting-major-league-baseball-team-wins"
+        link: "https://alex31425.github.io/MTHuang/"
         tagline: "Machine Learning Engineering for Predicting Major League Baseball Team Wins"
 
       - title: Airbnb
-        link: "https://github.com/alex31425/MTHuang/blob/master/index.md#analysis-of-airbnb-lodging-service-in-san-diego"
+        link: "https://alex31425.github.io/MTHuang/"
         tagline: "Analysis of Airbnb Lodging Service in San Diego"
 
 #publications:
