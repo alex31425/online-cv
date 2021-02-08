@@ -127,11 +127,11 @@ projects:
       These projects are completed or in progress.
       
     assignments:
-      - title: [**Baseball**]
+      - title: Baseball
         link: "https://alex31425.github.io/MTHuang/"
         tagline: "Machine Learning Engineering for Predicting Major League Baseball Team Wins"
 
-      - title: **Airbnb**
+      - title: Airbnb
         link: "https://alex31425.github.io/MTHuang/"
         tagline: "Analysis of Airbnb Lodging Service in San Diego"
 
